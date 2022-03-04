@@ -7,12 +7,12 @@ Predict the popularity of tracks based on several independent features. This is 
 
 ### Models Used for Prediction:
 
-Logistic Regression
-XG-Boost
-K-Nearest Neighbors
-Support Vector Machine (SVM)
-Decision Tree Classification
-Random Forest Classification
+- Logistic Regression
+- XG-Boost Classifier
+- K-Nearest Neighbors
+- Support Vector Machine (SVM)
+- Decision Tree Classification
+- Random Forest Classification
 
 ## Data –
 
